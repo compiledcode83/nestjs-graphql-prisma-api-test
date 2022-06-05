@@ -700,26 +700,3 @@ model User {
 @ObjectType('Human', { isAbstract: true })
 export class User {}
 ```
-
-## Similar Projects
-
-- https://github.com/jasonraimondi/prisma-generator-nestjs-graphql
-- https://github.com/omar-dulaimi/prisma-class-validator-generator
-- https://github.com/kimjbstar/prisma-class-generator
-- https://github.com/odroe/nest-gql-mix
-- https://github.com/rfermann/nestjs-prisma-graphql-generator
-- https://github.com/madscience/graphql-codegen-nestjs
-- https://github.com/wSedlacek/prisma-generators/tree/master/libs/nestjs
-- https://github.com/EndyKaufman/typegraphql-prisma-nestjs
-- https://github.com/MichalLytek/typegraphql-prisma
-
-## Resources
-
-- Todo - https://github.com/unlight/prisma-nestjs-graphql/issues/2
-- https://github.com/prisma/prisma/blob/main/packages/client/src/generation/TSClient/TSClient.ts
-- https://ts-ast-viewer.com/
-- https://github.com/unlight/nestjs-graphql-prisma-realworld-example-app
-- https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema/data-model
-- JSON type for the code first approach - https://github.com/nestjs/graphql/issues/111#issuecomment-631452899
-- https://github.com/paljs/prisma-tools/tree/master/packages/plugins
-- https://github.com/wasp-lang/wasp
